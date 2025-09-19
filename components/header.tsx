@@ -30,9 +30,7 @@ export function Header() {
                 className="text-primary-foreground"
               />
             </div>
-            <span className="text-2xl font-normal text-foreground">
-              EverGreen
-            </span>
+            <span className="text-2xl font-normal text-foreground">ETSEC</span>
           </Link>
         </div>
 
@@ -46,23 +44,10 @@ export function Header() {
             whileTap={{ y: 0 }}
           >
             <Link
-              href="/about"
+              href="/"
               className="text-foreground hover:text-primary transition-colors"
             >
-              About Us
-            </Link>
-          </MotionDiv>
-
-          <MotionDiv
-            className="inline-block"
-            whileHover={{ y: -3 }}
-            whileTap={{ y: 0 }}
-          >
-            <Link
-              href="/services"
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Services
+              Home
             </Link>
           </MotionDiv>
 
@@ -85,10 +70,23 @@ export function Header() {
             whileTap={{ y: 0 }}
           >
             <Link
-              href="/company"
+              href="/careers"
               className="text-foreground hover:text-primary transition-colors"
             >
-              Company
+              Careers
+            </Link>
+          </MotionDiv>
+
+          <MotionDiv
+            className="inline-block"
+            whileHover={{ y: -3 }}
+            whileTap={{ y: 0 }}
+          >
+            <Link
+              href="/about"
+              className="text-foreground hover:text-primary transition-colors"
+            >
+              About Us
             </Link>
           </MotionDiv>
         </nav>
@@ -167,10 +165,10 @@ export function Header() {
                 }}
               >
                 {[
-                  { href: "/about", label: "About Us" },
-                  { href: "/services", label: "Services" },
+                  { href: "/", label: "Home" },
                   { href: "/products", label: "Products" },
-                  { href: "/company", label: "Company" },
+                  { href: "/careers", label: "Careers" },
+                  { href: "/about", label: "About Us" },
                 ].map((item) => (
                   <motion.div
                     key={item.href}

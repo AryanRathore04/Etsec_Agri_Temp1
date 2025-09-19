@@ -16,13 +16,13 @@ export const metadata: Metadata = {
     description:
       "A platform connecting farmers and buyers for sustainable agriculture.",
     url: SITE_URL,
-    siteName: "EverGreen",
+    siteName: "ETSEC",
     images: [
       {
         url: `${SITE_URL}/placeholder-logo.png`,
         width: 1200,
         height: 630,
-        alt: "EverGreen logo",
+        alt: "ETSEC logo",
       },
     ],
     locale: "en_US",
