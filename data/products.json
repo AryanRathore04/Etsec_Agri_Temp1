@@ -1,0 +1,634 @@
+{
+  "product_categories": [
+    {
+      "category_name": "Fertilizers & Nutrients",
+      "products": [
+        {
+          "product_name": "Urea",
+          "short_description": "A common nitrogen-based fertilizer for promoting leaf growth.",
+          "details": {
+            "full_description": "Urea is an organic compound and a high-nitrogen fertilizer. Its high nitrogen content makes it ideal for accelerating leaf growth and greening. It is highly soluble in water and can be applied as a solid or in a liquid solution. It's best used during the vegetative stage of plant growth.",
+            "application_rate": "150-200 kg per hectare",
+            "form": "Granular or Liquid",
+            "nutrients": "46% Nitrogen (N)"
+          }
+        },
+        {
+          "product_name": "Diammonium Phosphate (DAP)",
+          "short_description": "A high-phosphorus and nitrogen fertilizer essential for root development.",
+          "details": {
+            "full_description": "Diammonium Phosphate (DAP) is a widely used fertilizer that provides both phosphorus and nitrogen. Phosphorus is crucial for root development, flowering, and fruiting, while nitrogen supports overall plant vigor. It is highly soluble and works well as a pre-plant application.",
+            "application_rate": "100-150 kg per hectare",
+            "form": "Granular",
+            "nutrients": "18% Nitrogen (N), 46% Phosphorus (P2O5)"
+          }
+        },
+        {
+          "product_name": "Potassium Nitrate",
+          "short_description": "Improves fruit quality and overall plant health.",
+          "details": {
+            "full_description": "Potassium Nitrate is a water-soluble fertilizer that provides two key nutrients: potassium and nitrogen. Potassium is vital for fruit and vegetable quality, improving size, flavor, and shelf life. It also helps plants resist disease and stress. It is often used during the fruiting and flowering stages.",
+            "application_rate": "50-100 kg per hectare",
+            "form": "Crystalline or Granular",
+            "nutrients": "13% Nitrogen (N), 46% Potassium (K2O)"
+          }
+        },
+        {
+          "product_name": "Liquid Seaweed Extract",
+          "short_description": "An organic biostimulant rich in micronutrients and hormones.",
+          "details": {
+            "full_description": "Liquid Seaweed Extract is an organic, natural biostimulant derived from various types of seaweed. It is rich in micronutrients, amino acids, and plant growth hormones that enhance plant health, improve root growth, and increase a plant's resistance to stress from heat or drought. It is suitable for organic farming.",
+            "application_rate": "2-5 liters per hectare",
+            "form": "Liquid Concentrate",
+            "nutrients": "Rich in trace elements, auxins, and cytokinins"
+          }
+        },
+        {
+          "product_name": "Micronutrient Mix (e.g., Zinc, Boron)",
+          "short_description": "A blend of essential micronutrients to correct deficiencies.",
+          "details": {
+            "full_description": "Micronutrient mixes contain a blend of essential trace elements such as Zinc, Boron, Iron, Manganese, and Copper. These nutrients are required in small amounts but are critical for key plant processes like photosynthesis and nutrient transport. Applying this mix prevents and corrects deficiency symptoms.",
+            "application_rate": "1-3 kg per hectare",
+            "form": "Powder or Liquid",
+            "nutrients": "Varies by mix, includes Zn, B, Fe, Mn, Cu"
+          }
+        },
+        {
+          "product_name": "Ammonium Sulphate",
+          "short_description": "A nitrogen fertilizer that also supplies sulfur.",
+          "details": {
+            "full_description": "Ammonium Sulphate is a nitrogen fertilizer that also provides sulfur, a secondary nutrient essential for protein synthesis and enzyme activity in plants. It can help lower soil pH in alkaline soils, making it beneficial for certain crops. It is often used as a top dressing.",
+            "application_rate": "150-250 kg per hectare",
+            "form": "Granular",
+            "nutrients": "21% Nitrogen (N), 24% Sulfur (S)"
+          }
+        },
+        {
+          "product_name": "Triple Superphosphate (TSP)",
+          "short_description": "A concentrated phosphorus fertilizer for enhancing plant energy.",
+          "details": {
+            "full_description": "Triple Superphosphate (TSP) is a highly concentrated phosphorus fertilizer that contains no nitrogen or potassium. Phosphorus is crucial for energy transfer within the plant, root growth, and early-season vigor. It is best applied before or during planting.",
+            "application_rate": "100-150 kg per hectare",
+            "form": "Granular",
+            "nutrients": "46% Phosphorus (P2O5)"
+          }
+        },
+        {
+          "product_name": "Calcium Nitrate",
+          "short_description": "A water-soluble fertilizer for preventing deficiencies like blossom-end rot.",
+          "details": {
+            "full_description": "Calcium Nitrate is a highly water-soluble fertilizer that provides both calcium and nitrogen. Calcium is essential for cell wall structure, and its deficiency can lead to disorders like blossom-end rot in tomatoes and peppers. This fertilizer is ideal for fertigation and hydroponics.",
+            "application_rate": "50-100 kg per hectare",
+            "form": "Granular or Crystalline",
+            "nutrients": "15.5% Nitrogen (N), 19% Calcium (Ca)"
+          }
+        },
+        {
+          "product_name": "Sulphate of Potash (SOP)",
+          "short_description": "A potassium and sulfur fertilizer for improving crop quality.",
+          "details": {
+            "full_description": "Sulphate of Potash (SOP) is a premium fertilizer that provides potassium and sulfur without chloride. Potassium enhances crop quality, improves drought tolerance, and strengthens plant stems. It is preferred for chloride-sensitive crops like fruits and tobacco.",
+            "application_rate": "50-100 kg per hectare",
+            "form": "Granular",
+            "nutrients": "50% Potassium (K2O), 17% Sulfur (S)"
+          }
+        },
+        {
+          "product_name": "Composted Manure",
+          "short_description": "An organic fertilizer that improves soil structure and fertility.",
+          "details": {
+            "full_description": "Composted Manure is a natural, organic soil amendment derived from animal waste. It improves soil structure, aeration, and water retention. It also slowly releases a wide range of macro and micronutrients, promoting long-term soil health. It is a key component of sustainable and organic farming.",
+            "application_rate": "10-20 tons per hectare",
+            "form": "Bulk, Bagged",
+            "nutrients": "Varies, contains N, P, K and organic matter"
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Crop Protection",
+      "products": [
+        {
+          "product_name": "Herbicide",
+          "short_description": "Chemicals used to control and eliminate unwanted weeds.",
+          "details": {
+            "full_description": "Herbicides are chemical substances used to control or kill unwanted plants (weeds). They are categorized by their mode of action, whether they are selective (targeting specific weeds) or non-selective (killing all plants). They are essential for minimizing competition for nutrients and water.",
+            "application_type": "Pre-emergent, Post-emergent",
+            "target": "Weeds",
+            "safety_precautions": "Wear PPE, follow label instructions"
+          }
+        },
+        {
+          "product_name": "Insecticide",
+          "short_description": "Pesticides designed to control insects that can harm crops.",
+          "details": {
+            "full_description": "Insecticides are pesticides used to control insect pests. They can be systemic, where they are absorbed by the plant and kill feeding insects, or contact-based, where they kill on contact. They are crucial for preventing significant crop loss and damage from pests like aphids, caterpillars, and locusts.",
+            "application_type": "Systemic, Contact",
+            "target": "Insects (e.g., Aphids, Caterpillars)",
+            "safety_precautions": "Follow re-entry intervals, store safely"
+          }
+        },
+        {
+          "product_name": "Fungicide",
+          "short_description": "Chemicals used to kill or prevent the growth of fungi.",
+          "details": {
+            "full_description": "Fungicides are used to prevent and treat fungal diseases in plants. They can be applied as a preventive measure or after a disease has been detected. Common fungal diseases include powdery mildew, rusts, and blights. They are essential for maintaining crop health and yield.",
+            "application_type": "Preventive, Curative",
+            "target": "Fungi (e.g., Mildew, Rust)",
+            "safety_precautions": "Avoid runoff, apply in calm weather"
+          }
+        },
+        {
+          "product_name": "Nematicide",
+          "short_description": "Pesticides used to kill plant-parasitic nematodes.",
+          "details": {
+            "full_description": "Nematicides are a type of pesticide used specifically to kill or repel nematodes, which are microscopic roundworms that can damage plant roots and reduce nutrient uptake. They are crucial for high-value crops like fruits and vegetables, which are particularly susceptible to nematode damage.",
+            "application_type": "Soil fumigant, Granular",
+            "target": "Nematodes",
+            "safety_precautions": "Soil must be prepared before application"
+          }
+        },
+        {
+          "product_name": "Biological Pesticides",
+          "short_description": "Naturally derived pesticides, often from bacteria or fungi.",
+          "details": {
+            "full_description": "Biological pesticides are derived from natural sources, such as bacteria, fungi, viruses, or plants. They are an environmentally friendly alternative to synthetic chemicals. Examples include Bt (Bacillus thuringiensis) for insect control and certain fungi that prey on pests. They are a key component of organic and integrated pest management (IPM) systems.",
+            "application_type": "Spray, Soil Drench",
+            "target": "Various Pests and Diseases",
+            "safety_precautions": "Requires specific storage and application conditions"
+          }
+        },
+        {
+          "product_name": "Seed Treatment",
+          "short_description": "A protective coating applied to seeds to prevent diseases and pests.",
+          "details": {
+            "full_description": "Seed treatment is the application of a protective chemical or biological agent to seeds before planting. This coating provides a shield against soil-borne pathogens and pests, improving germination rates and protecting the young seedling during its most vulnerable stage. It can include fungicides, insecticides, and beneficial microbes.",
+            "application_type": "Coating",
+            "target": "Soil-borne Pests and Diseases",
+            "safety_precautions": "Treated seeds are not for consumption"
+          }
+        },
+        {
+          "product_name": "Adjuvants",
+          "short_description": "Additives that improve the effectiveness of crop protection products.",
+          "details": {
+            "full_description": "Adjuvants are substances added to a pesticide or fertilizer mixture to enhance its performance. They can improve the spreading, sticking, or penetration of the active ingredient on the plant surface. Examples include surfactants, wetting agents, and drift control agents. Using the right adjuvant can significantly improve the efficiency of your sprays.",
+            "application_type": "Mixed with other products",
+            "target": "Enhancing chemical performance",
+            "safety_precautions": "Follow mixing instructions carefully"
+          }
+        },
+        {
+          "product_name": "Pheromone Traps",
+          "short_description": "A non-chemical method to monitor and control insect pests.",
+          "details": {
+            "full_description": "Pheromone traps use synthetic insect pheromones to attract and trap specific male pests. They are a non-toxic method used primarily for monitoring pest populations to determine the best time for pesticide application. In some cases, they can be used for mass trapping to reduce pest numbers without chemicals, a core part of Integrated Pest Management.",
+            "application_type": "Trapping",
+            "target": "Specific Male Insects",
+            "safety_precautions": "Non-toxic"
+          }
+        },
+        {
+          "product_name": "Rodenticide",
+          "short_description": "Pesticides used to kill rodents that damage crops.",
+          "details": {
+            "full_description": "Rodenticides are chemicals used to control rodent populations, such as rats and mice, that can cause significant damage to stored crops and fields. They are typically available as baits or pellets. Proper placement and handling are crucial to prevent harm to non-target animals.",
+            "application_type": "Bait, Pellets",
+            "target": "Rats, Mice",
+            "safety_precautions": "Keep away from pets and children"
+          }
+        },
+        {
+          "product_name": "Integrated Pest Management (IPM) Kits",
+          "short_description": "A combination of products and tools for a holistic approach to pest control.",
+          "details": {
+            "full_description": "IPM Kits are a combination of various tools and products for a comprehensive, multi-faceted approach to pest control. These kits often include pheromone traps, biological pesticides, beneficial insects, and monitoring tools. The goal is to manage pests in an environmentally sound way, using chemicals only when necessary.",
+            "application_type": "Holistic Strategy",
+            "target": "Diverse Pests",
+            "safety_precautions": "Integrates various methods"
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Seeds & Varieties",
+      "products": [
+        {
+          "product_name": "Hybrid Corn Seeds",
+          "short_description": "High-yield seeds developed for specific climates and disease resistance.",
+          "details": {
+            "full_description": "Hybrid corn seeds are the result of cross-pollinating two different parent lines to create a new variety with improved traits, such as higher yield, better disease resistance, and greater uniformity. They are the most common type of corn seed used in commercial agriculture.",
+            "type": "Hybrid",
+            "features": "High Yield, Disease Resistant",
+            "best_for": "Commercial Farming"
+          }
+        },
+        {
+          "product_name": "Organic Tomato Seeds",
+          "short_description": "Non-GMO, organic seeds for growing sustainable and healthy produce.",
+          "details": {
+            "full_description": "Organic tomato seeds are produced from plants grown under certified organic conditions, without the use of synthetic pesticides or fertilizers. These seeds are non-GMO and are ideal for home gardeners and organic farmers who prioritize sustainable and natural food production.",
+            "type": "Organic, Non-GMO",
+            "features": "Suitable for Organic Farming",
+            "best_for": "Home Gardens, Organic Farms"
+          }
+        },
+        {
+          "product_name": "Heirloom Vegetable Seeds",
+          "short_description": "Seeds from classic, open-pollinated varieties known for unique flavor.",
+          "details": {
+            "full_description": "Heirloom seeds are from open-pollinated varieties that have been passed down through generations. They are prized for their unique flavors, colors, and historical significance. Unlike hybrids, heirloom seeds can be saved and replanted year after year, and they will grow true to type.",
+            "type": "Heirloom, Open-Pollinated",
+            "features": "Unique Flavor, Historical Value",
+            "best_for": "Specialty Markets, Home Gardeners"
+          }
+        },
+        {
+          "product_name": "Drought-Tolerant Wheat",
+          "short_description": "A variety engineered to thrive in dry conditions with minimal water.",
+          "details": {
+            "full_description": "Drought-tolerant wheat varieties are specifically bred to perform well in areas with limited rainfall or where water resources are scarce. These seeds have genetic traits that allow them to use water more efficiently, maintain yield under stress, and have deeper root systems.",
+            "type": "Stress-Tolerant",
+            "features": "Water-Efficient, High Performance in Dry Conditions",
+            "best_for": "Arid and Semi-Arid Regions"
+          }
+        },
+        {
+          "product_name": "F1 Hybrid Watermelon Seeds",
+          "short_description": "First-generation hybrid seeds for consistent fruit size and quality.",
+          "details": {
+            "full_description": "F1 Hybrid Watermelon Seeds are the result of a cross between two different inbred parent lines. The resulting first-generation (F1) plants exhibit 'hybrid vigor,' leading to uniform fruit size, improved disease resistance, and higher yields. They are a popular choice for commercial growers.",
+            "type": "F1 Hybrid",
+            "features": "Uniformity, High Yield",
+            "best_for": "Commercial Production"
+          }
+        },
+        {
+          "product_name": "Cereal Crop Seeds (e.g., Rice, Barley)",
+          "short_description": "Seeds for staple grains, optimized for local soil and climate.",
+          "details": {
+            "full_description": "This category includes a range of seeds for staple cereal grains like rice, barley, oats, and sorghum. These varieties are often optimized for local soil types, climate conditions, and specific disease pressures. They are a cornerstone of global food production.",
+            "type": "Staple Grain",
+            "features": "High Caloric Value, Adaptable",
+            "best_for": "Large-Scale Farming"
+          }
+        },
+        {
+          "product_name": "Legume Seeds (e.g., Lentils, Beans)",
+          "short_description": "Seeds for nitrogen-fixing plants that improve soil health.",
+          "details": {
+            "full_description": "Legume seeds like lentils, beans, and peas are known for their ability to fix atmospheric nitrogen into the soil through a symbiotic relationship with bacteria. This process naturally enriches the soil, reducing the need for synthetic nitrogen fertilizers. They are a great choice for crop rotation.",
+            "type": "Nitrogen-Fixing",
+            "features": "Improves Soil Fertility",
+            "best_for": "Crop Rotation"
+          }
+        },
+        {
+          "product_name": "Fodder Crop Seeds",
+          "short_description": "Seeds for crops grown specifically for animal feed.",
+          "details": {
+            "full_description": "Fodder crop seeds are specifically for plants grown to be harvested for animal feed. This includes varieties of grasses, legumes, and cereals that are high in nutritional value for livestock. Examples include alfalfa, clover, and certain varieties of corn.",
+            "type": "Fodder",
+            "features": "High Protein, Animal Feed",
+            "best_for": "Livestock Farms"
+          }
+        },
+        {
+          "product_name": "Seed Balls",
+          "short_description": "A mix of seeds, clay, and compost that can be scattered for planting.",
+          "details": {
+            "full_description": "Seed balls (or seed bombs) are a unique method of planting. They consist of a mixture of seeds, clay, and compost that is rolled into a ball. They can be scattered over an area without tilling the soil. The clay protects the seeds from pests until conditions are right for germination.",
+            "type": "Seed Bomb",
+            "features": "No-Till Planting, Easy to Distribute",
+            "best_for": "Reforestation, Urban Gardens"
+          }
+        },
+        {
+          "product_name": "Flower Seeds (e.g., Marigold, Sunflower)",
+          "short_description": "Seeds for companion planting and attracting beneficial pollinators.",
+          "details": {
+            "full_description": "Flower seeds are often used in agricultural settings for companion planting, a technique where different plants are grown together for mutual benefit. Flowers like marigolds can deter pests, while sunflowers and other nectar-rich plants attract beneficial pollinators like bees and butterflies, which are essential for crop pollination.",
+            "type": "Companion Crop",
+            "features": "Pest Deterrent, Attracts Pollinators",
+            "best_for": "Integrated Farming"
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Irrigation Solutions",
+      "products": [
+        {
+          "product_name": "Drip Irrigation Kits",
+          "short_description": "A system that delivers water directly to the plant roots, saving water.",
+          "details": {
+            "full_description": "Drip irrigation kits are a water-efficient solution that delivers water slowly and directly to the plant root zone. This minimizes evaporation and runoff, saving a significant amount of water compared to traditional methods. These kits are ideal for row crops, orchards, and vineyards.",
+            "components": "Emitters, Drip Lines, Hoses, Connectors",
+            "advantages": "Water saving, reduces weeds, high efficiency",
+            "best_for": "Row Crops, Orchards"
+          }
+        },
+        {
+          "product_name": "Sprinkler Systems",
+          "short_description": "Overhead irrigation systems suitable for larger fields.",
+          "details": {
+            "full_description": "Sprinkler systems mimic rainfall by spraying water over a large area. They are suitable for large fields, lawns, and golf courses. Various types exist, including center pivot, linear move, and solid set systems. While less water-efficient than drip, they are easy to set up and are effective for many crop types.",
+            "components": "Pumps, Pipes, Sprinkler Heads",
+            "advantages": "Covers large areas, good for shallow-rooted crops",
+            "best_for": "Large Fields, Pastures"
+          }
+        },
+        {
+          "product_name": "Subsurface Drip Lines",
+          "short_description": "Drip lines buried underground to reduce evaporation and water loss.",
+          "details": {
+            "full_description": "Subsurface drip lines are a form of drip irrigation where the lines are buried beneath the soil surface. This method completely eliminates surface evaporation and runoff, leading to the highest water efficiency. It is excellent for permanent crops and can be used in no-till farming systems.",
+            "components": "Buried Drip Lines, Emitters, Filters",
+            "advantages": "Highest water efficiency, no surface evaporation",
+            "best_for": "Permanent Crops, No-Till Farming"
+          }
+        },
+        {
+          "product_name": "Water Pumps",
+          "short_description": "Equipment used to move water from a source to the irrigation system.",
+          "details": {
+            "full_description": "Water pumps are a fundamental part of any irrigation system, responsible for moving water from a source like a well, river, or reservoir, to the fields. They come in various sizes and power sources (electric, diesel, solar) to suit different farm needs and system sizes. Selecting the right pump is crucial for system performance.",
+            "components": "Motor, Impeller, Casing",
+            "advantages": "Essential for water movement, various types available",
+            "best_for": "All Irrigation Systems"
+          }
+        },
+        {
+          "product_name": "Irrigation Filters",
+          "short_description": "Filters that prevent debris from clogging emitters and pipes.",
+          "details": {
+            "full_description": "Irrigation filters are essential for any drip or micro-irrigation system. They remove sand, silt, algae, and other particles from the water to prevent emitters and pipes from clogging. This maintains the system's efficiency and longevity. Common types include screen filters and disc filters.",
+            "components": "Filter Housing, Screen/Discs",
+            "advantages": "Prevents clogging, extends system life",
+            "best_for": "Drip and Micro-Irrigation Systems"
+          }
+        },
+        {
+          "product_name": "Smart Irrigation Controllers",
+          "short_description": "IoT-enabled controllers that adjust watering schedules based on data.",
+          "details": {
+            "full_description": "Smart irrigation controllers use data from weather forecasts, soil moisture sensors, and plant-specific needs to automatically adjust watering schedules. This technology prevents over-watering, conserves water, and ensures plants receive the optimal amount of water, leading to healthier crops and reduced costs.",
+            "components": "Controller, Sensors (optional)",
+            "advantages": "Automated, water-efficient, reduces labor",
+            "best_for": "Precision Agriculture"
+          }
+        },
+        {
+          "product_name": "Valves and Fittings",
+          "short_description": "Components used to control water flow and connect different parts.",
+          "details": {
+            "full_description": "Valves and fittings are the 'nuts and bolts' of an irrigation system. Valves control the flow of water to different zones or sections, while fittings like connectors, elbows, and T-joints are used to assemble the pipe network. High-quality components are vital for preventing leaks and ensuring a reliable system.",
+            "components": "Valves, Connectors, T-joints, End Caps",
+            "advantages": "Allows for system customization and control",
+            "best_for": "All Irrigation Systems"
+          }
+        },
+        {
+          "product_name": "Rain Sensors",
+          "short_description": "Sensors that automatically shut off the system during rainfall.",
+          "details": {
+            "full_description": "Rain sensors are simple but effective devices that detect rainfall and automatically signal the irrigation controller to pause the watering schedule. This prevents unnecessary watering, conserves water, and saves energy. They are a great addition to any automated sprinkler or drip system.",
+            "components": "Sensor Body, Moisture Pads",
+            "advantages": "Prevents over-watering, saves water",
+            "best_for": "Automated Sprinkler Systems"
+          }
+        },
+        {
+          "product_name": "Hoses and Pipes",
+          "short_description": "The foundational components for any irrigation network.",
+          "details": {
+            "full_description": "Hoses and pipes form the backbone of an irrigation system, transporting water from the pump or main line to the field. They come in various materials (PVC, polyethylene) and diameters to suit different pressures and flow rates. Proper pipe sizing is critical for maintaining adequate water pressure throughout the system.",
+            "components": "PVC, Polyethylene Tubing",
+            "advantages": "Durable, provides framework for system",
+            "best_for": "All Irrigation Systems"
+          }
+        },
+        {
+          "product_name": "Water Meters",
+          "short_description": "Devices for measuring and monitoring water usage.",
+          "details": {
+            "full_description": "Water meters are devices used to measure the volume of water used by an irrigation system. They provide essential data for effective water management, helping farmers monitor consumption, identify leaks, and optimize their watering schedules. This data is also crucial for compliance with water regulations.",
+            "components": "Flow Sensor, Display Unit",
+            "advantages": "Monitors water usage, helps with management",
+            "best_for": "Water Management"
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Farm Equipment",
+      "products": [
+        {
+          "product_name": "Tractors",
+          "short_description": "Versatile vehicles used for pulling farm machinery and implements.",
+          "details": {
+            "full_description": "Tractors are the most fundamental piece of farm equipment, serving as a power source for a wide range of tasks. They are used for tilling, plowing, planting, cultivating, and harvesting. They come in various sizes and horsepower ratings to suit different farm sizes and crop types.",
+            "uses": "Plowing, Tilling, Planting, Hauling",
+            "power_source": "Diesel, Electric",
+            "features": "PTO (Power Take-Off), Hydraulic systems"
+          }
+        },
+        {
+          "product_name": "Plows and Harrows",
+          "short_description": "Tractor attachments for preparing soil for planting.",
+          "details": {
+            "full_description": "Plows and harrows are implements used for primary and secondary tillage, respectively. Plows turn over the soil to prepare a seedbed, while harrows break up large clods and smooth the soil surface. They are essential for soil preparation, weed control, and incorporating crop residue.",
+            "uses": "Soil preparation, Tillage",
+            "types": "Moldboard Plow, Disc Harrow, Tine Harrow",
+            "features": "Attached to tractor's 3-point hitch"
+          }
+        },
+        {
+          "product_name": "Combine Harvesters",
+          "short_description": "Machines that harvest, thresh, and clean grain crops in one go.",
+          "details": {
+            "full_description": "Combine harvesters are large, self-propelled machines that perform three operations in a single pass: harvesting (reaping), threshing (separating grain), and winnowing (cleaning). They are a critical piece of equipment for large-scale grain farming, used for crops like wheat, rice, corn, and soybeans.",
+            "uses": "Harvesting Grain Crops",
+            "types": "Axial-Flow, Conventional",
+            "features": "Header for cutting, Thresher, Grain tank"
+          }
+        },
+        {
+          "product_name": "Seed Drills and Planters",
+          "short_description": "Equipment for accurately planting seeds at the correct depth and spacing.",
+          "details": {
+            "full_description": "Seed drills and planters are machines used for sowing seeds. Seed drills are used for broadcasting seeds in rows, while planters are more precise, placing individual seeds at a uniform depth and spacing. They ensure optimal germination and plant density, which is crucial for maximizing yield.",
+            "uses": "Sowing seeds",
+            "types": "No-Till Planter, Air Seeder",
+            "features": "Hopper for seeds, Furrow openers"
+          }
+        },
+        {
+          "product_name": "Fertilizer Spreaders",
+          "short_description": "Machines designed to evenly distribute fertilizers across fields.",
+          "details": {
+            "full_description": "Fertilizer spreaders are machines used to apply granular fertilizers, lime, or other soil amendments. They ensure an even and consistent application rate across the field, which is vital for providing uniform nutrition to the crops. They can be mounted on a tractor or be self-propelled.",
+            "uses": "Applying fertilizers",
+            "types": "Broadcast Spreader, Drop Spreader",
+            "features": "Adjustable spread width and rate"
+          }
+        },
+        {
+          "product_name": "Sprayers",
+          "short_description": "Equipment used for applying pesticides, herbicides, and liquid fertilizers.",
+          "details": {
+            "full_description": "Sprayers are used to apply liquid solutions, including pesticides, herbicides, and liquid fertilizers, onto crops. They are available in various sizes, from hand-held models for small gardens to large boom sprayers for extensive fields. Precision sprayers can target specific areas, reducing chemical use and environmental impact.",
+            "uses": "Applying liquid chemicals",
+            "types": "Backpack Sprayer, Boom Sprayer",
+            "features": "Nozzles for different spray patterns"
+          }
+        },
+        {
+          "product_name": "Balers",
+          "short_description": "Machines that compress hay and straw into compact bales.",
+          "details": {
+            "full_description": "Balers are farm machines used to compress and tie hay, straw, and silage into compact, manageable bales for transport and storage. They are essential for livestock farmers. Common types include round balers, which create large, cylindrical bales, and square balers, which produce rectangular bales of various sizes.",
+            "uses": "Baling hay and straw",
+            "types": "Round Baler, Square Baler",
+            "features": "Tine pickup, Twine or net wrapping system"
+          }
+        },
+        {
+          "product_name": "Rotary Tillers",
+          "short_description": "Hand-operated or tractor-mounted tools for breaking up and aerating soil.",
+          "details": {
+            "full_description": "Rotary tillers (or rotavators) are tools used for preparing soil for planting by churning it up with rotating blades. They break up hard soil, mix in organic matter, and level the ground. They are available as small, walk-behind machines for home gardens or large, tractor-mounted implements for large-scale farms.",
+            "uses": "Soil tilling and aeration",
+            "types": "Front-Tine, Rear-Tine",
+            "features": "Rotating blades (tines) that dig into soil"
+          }
+        },
+        {
+          "product_name": "Brush Cutters",
+          "short_description": "Tools for clearing dense vegetation and weeds.",
+          "details": {
+            "full_description": "Brush cutters are motorized tools used for clearing tough, dense vegetation, tall grass, and weeds that are too thick for a regular lawn mower. They are versatile and can be used for land clearing, maintaining fence lines, and preparing areas for planting. They often have interchangeable heads for different tasks.",
+            "uses": "Clearing vegetation",
+            "types": "Hand-held, Walk-behind",
+            "features": "Engine-powered, various blade types"
+          }
+        },
+        {
+          "product_name": "Post Hole Diggers",
+          "short_description": "Equipment used for digging holes for fence posts or other structures.",
+          "details": {
+            "full_description": "Post hole diggers are essential tools for building fences, trellises, or other farm structures. They can be hand-operated, tractor-mounted (auger), or gas-powered. They make the job of digging deep, narrow holes for posts much faster and more efficient, saving time and labor.",
+            "uses": "Digging holes for posts",
+            "types": "Manual, Tractor-Mounted, Gas-Powered",
+            "features": "Auger bit, handles for control"
+          }
+        }
+      ]
+    },
+    {
+      "category_name": "Digital Solutions",
+      "products": [
+        {
+          "product_name": "Farm Management Software",
+          "short_description": "A platform for tracking field activities, finances, and inventory.",
+          "details": {
+            "full_description": "Farm Management Software (FMS) is a digital platform that helps farmers manage their operations more efficiently. It allows for the tracking of field activities, managing finances and payroll, monitoring inventory, and creating reports. It is a central hub for all farm data, helping with decision-making and planning.",
+            "features": "Field Mapping, Financial Tracking, Reporting",
+            "best_for": "Farm Operations Management",
+            "benefits": "Improved efficiency, better decision-making"
+          }
+        },
+        {
+          "product_name": "Agricultural Drones",
+          "short_description": "Drones for aerial surveying, crop health monitoring, and precision spraying.",
+          "details": {
+            "full_description": "Agricultural drones (UAVs) are a game-changer in precision agriculture. They can be equipped with multispectral cameras to assess crop health, survey fields for pests or weeds, and create detailed maps. Some drones can also be used for precision spraying of fertilizers or pesticides, targeting only the necessary areas and saving costs.",
+            "features": "High-Res Cameras, Multispectral Sensors, GPS",
+            "best_for": "Precision Farming, Crop Monitoring",
+            "benefits": "Early problem detection, reduced chemical use"
+          }
+        },
+        {
+          "product_name": "Soil Moisture Sensors",
+          "short_description": "IoT devices that provide real-time data on soil water content.",
+          "details": {
+            "full_description": "Soil moisture sensors are IoT devices placed in the field to measure the water content of the soil. They provide real-time data that helps farmers make informed decisions about when and how much to irrigate. When integrated with a smart irrigation controller, they can automate watering schedules, leading to significant water savings.",
+            "features": "Real-time data, Wireless connectivity",
+            "best_for": "Water Management, Automated Irrigation",
+            "benefits": "Water conservation, prevents over-watering"
+          }
+        },
+        {
+          "product_name": "GPS-Guided Tractors",
+          "short_description": "Tractors with GPS technology for precise planting and harvesting.",
+          "details": {
+            "full_description": "GPS-guided tractors use global positioning technology for precision farming. They allow for highly accurate and repeatable passes in the field, reducing overlap during planting, spraying, and harvesting. This saves on fuel, seeds, and fertilizers, and increases overall efficiency and yield.",
+            "features": "RTK GPS, Auto-steer technology",
+            "best_for": "Precision Agriculture",
+            "benefits": "Reduced resource use, increased efficiency"
+          }
+        },
+        {
+          "product_name": "Livestock Monitoring Systems",
+          "short_description": "Smart sensors and wearables to track animal health, location, and behavior.",
+          "details": {
+            "full_description": "Livestock monitoring systems use smart sensors, collars, or ear tags to track an animal's health and behavior. They can monitor body temperature, activity levels, and location. This data helps farmers detect early signs of illness, manage breeding cycles, and prevent animals from straying, improving herd health and productivity.",
+            "features": "Wearables, GPS, Health Data",
+            "best_for": "Livestock Farms",
+            "benefits": "Improved animal health, early disease detection"
+          }
+        },
+        {
+          "product_name": "Automated Irrigation Systems",
+          "short_description": "Systems that automatically adjust water delivery based on sensor data.",
+          "details": {
+            "full_description": "Automated irrigation systems integrate smart controllers, soil sensors, and weather data to manage watering automatically. These systems remove the need for manual intervention and ensure that crops receive the precise amount of water they need at the optimal time, leading to better crop health and water conservation.",
+            "features": "IoT integration, Automated scheduling",
+            "best_for": "Water Conservation, Labor Savings",
+            "benefits": "Optimal water use, improved crop yield"
+          }
+        },
+        {
+          "product_name": "Yield Mapping Software",
+          "short_description": "Software that uses GPS data to create maps showing crop yield variations.",
+          "details": {
+            "full_description": "Yield mapping software collects data from a combine harvester's sensors and GPS to create detailed maps of a field's crop yield. These maps help farmers identify areas of high and low performance. By understanding these variations, farmers can adjust their management strategies for the next season, leading to improved overall farm productivity.",
+            "features": "GPS Integration, Data Visualization",
+            "best_for": "Field Analysis, Strategic Planning",
+            "benefits": "Identifies high-performing areas, informs future decisions"
+          }
+        },
+        {
+          "product_name": "Weather Stations",
+          "short_description": "Digital weather stations that provide real-time, hyper-local climate data.",
+          "details": {
+            "full_description": "On-farm weather stations provide hyper-local weather data, including temperature, humidity, rainfall, and wind speed. This real-time information is more accurate than regional forecasts and is crucial for making timely decisions on irrigation, spraying, and harvesting. The data can also be integrated with other digital systems for automated actions.",
+            "features": "Wireless sensors, Data logging",
+            "best_for": "Microclimate Monitoring",
+            "benefits": "Accurate forecasting, informed decision-making"
+          }
+        },
+        {
+          "product_name": "Predictive Analytics",
+          "short_description": "AI-powered tools that analyze data to predict pest outbreaks and disease.",
+          "details": {
+            "full_description": "Predictive analytics in agriculture uses AI and machine learning to analyze large datasets (weather, soil, sensor data) to predict potential threats. These tools can forecast pest outbreaks, disease spread, and crop yield, allowing farmers to take proactive measures and mitigate risks before they become a major problem.",
+            "features": "AI-Powered, Data Analysis",
+            "best_for": "Risk Management",
+            "benefits": "Proactive problem-solving, reduced losses"
+          }
+        },
+        {
+          "product_name": "Online Marketplace",
+          "short_description": "An e-commerce platform for farmers to buy and sell products directly.",
+          "details": {
+            "full_description": "Online marketplaces are digital platforms that connect farmers with suppliers of equipment, seeds, and fertilizers, as well as with buyers for their produce. These platforms streamline the supply chain, often resulting in better prices for farmers and a more efficient transaction process. They can be a key part of modernizing farm business operations.",
+            "features": "E-commerce platform, Seller/Buyer profiles",
+            "best_for": "Business Operations",
+            "benefits": "Direct sales, better pricing, wider network"
+          }
+        }
+      ]
+    }
+  ]
+}
